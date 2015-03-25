@@ -6,7 +6,7 @@ The Cloud Foundry Login Server project has been retired. The functionality of th
 
 ## Login Server
 
-[![Build Status](https://travis-ci.org/cloudfoundry/login-server.svg?branch=develop)](https://travis-ci.org/cloudfoundry/login-server)
+[![Build Status](https://travis-ci.org/hjinkim-cf1/login-server.svg?branch=develop)](https://travis-ci.org/hjinkim-cf1/login-server)
 [![Coverage Status](https://coveralls.io/repos/cloudfoundry/login-server/badge.png?branch=develop)](https://coveralls.io/r/cloudfoundry/login-server?branch=develop)
 
 Handles authentication in Cloud Foundry and delegates all other
